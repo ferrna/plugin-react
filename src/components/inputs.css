@@ -1,0 +1,10 @@
+.inputs-component__btn {
+    box-sizing: border-box;
+    width: calc(100% - 2rem);
+    padding: 0.8rem 2rem;
+    text-align: center;
+    background-color: rgb(119, 213, 216);
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}

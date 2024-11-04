@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreactminiapp=self.webpackChunkreactminiapp||[]).push([[773],{773:(e,a,n)=>{n.r(a),n.d(a,{default:()=>r});var t=n(540);const r=function(e){var a,n=e.data;return t.createElement("div",null,t.createElement("p",null,"Data: ",n.external_data[0].name),t.createElement("p",null,"User: ",null===(a=n.current_user)||void 0===a?void 0:a.user_nicename))}}}]);
+//# sourceMappingURL=773.index.js.map

@@ -1,0 +1,12 @@
+#data_display {
+    width: 100%;
+}
+
+#data_display .container {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    padding: 1rem;
+}
